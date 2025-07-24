@@ -1,2 +1,2 @@
-- I hope that one day in the future, I will be able to publish my own outstanding paper and make even the smallest contribution to the field of AGI.
-
+童光辉, 杨澄逸. 从历史经验看个人所得税纳税单位的选择[J]. 税务研究, 2024(10): 140-144.
+童光辉, 杨澄逸. 数字经济发展与企业避税——基于上市公司数据的实证研究[J]. 税收经济研究, 2024, 29 (02): 56-66+77.
