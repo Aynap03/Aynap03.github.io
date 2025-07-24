@@ -1,23 +1,19 @@
 
 
-[![Yixin0313](https://img.shields.io/badge/Yixin0313-github-blue?logo=github)](https://github.com/Yixin0313)
 
-M.Sc. in Computer Science, Uppsala University, Sweden. 
-
+税务专硕,浙江财经大学, 中国
 #### Email
-<code>yixin.huang.0067@student.uu.se</code>  
-<code>HYX20018888@outlook.com</code>
+<code>231501021071@zufe.edu.cn</code>  
+<code>3210659164@qq.com</code>
 
 #### Education
-**Uppsala University**, Master of Computer Science (Aug 2023 – Jun 2025)  
-• GPA: 4.0/5.0  
+**浙江财经大学**, 税务专硕 (Sep 2023 – Jan 2026)  
+• GPA: 4.6/5.0（1/88）  
 
-**Xidian University**, Exchange student <br>
-• As a sophomore, represented my college as an outstanding student for a one-year exchange program.  
+**浙江财经大学**, 税收学 学士 (Sep 2019 – Jun 2023)
+• GPA：4.0/5.0 
 
-**Shihezi University**, Honours Bachelor of Data Science and Big Data Technology (Sept 2019 – Jun 2023)  
-• GPA: 86/100 (top 1%)  
 
 #### Research Interests
-Deep Learning, Artificial Intelligence, LLMs(Large Language Models), Blockchain.
+数字经济；财税理论与财税政策.
 
