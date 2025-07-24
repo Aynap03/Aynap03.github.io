@@ -1,11 +1,4 @@
-- First Prize, Xinjiang University Students Information Security Competition (CTF Format), 2022.  
-
-- Honorable Mention, Mathematical Contest in Modeling (MCM), USA, 2022.  
-
-- First-class Scholarship, Shihezi University, 2022.  
-
-- Outstanding Graduation Thesis, Shihezi University, 2023.  
-
-- Software Copyright, Traceability System for Yilite Liquor Based on Fabric Consortium Blockchain V1.0, 2022.  
-
-- Second Prize, Blockchain Innovation and Application Development Competition, Xinjiang Higher Education Discipline and Skills Competition (Undergraduate Group), 2022.  
+- 2023-2024学年国家奖学金、研究生一等学业奖学金、三好研究生.    
+- 中国社会科学院大学主办第二届“全国理论经济学本硕博研讨会”二等奖；首届浙江财经大学“经纬新锐”研究生学术论坛一等奖；  
+- 2024年宁波研究生学术节“学术之星”铜奖.      
+- 2024年浙江财经大学第十届研究生“卓越之星”候选人.  
